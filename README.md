@@ -1,16 +1,18 @@
 # Web Components Resources
 A list of the resources I used for research for the "The dilemmas you'll face when creating a web component UI library" article series.
 
+## The dilemmas you'll face when creating a web component UI library
+
 (Links to be added)
 Introduction
-0 - Scaffolding your library's repo
-1 - Tools to help manage your monorepo
-2 - Tools to make writing your web components a breeze
-3 - How to build (and maybe bundle) your UI library's packages
-4 - Defining your UI library's testing strategy
-5 - Versioning and Publishing: Getting your library into your user's hands
-6 - Adding documentation for your UI library
-Conclusion
+- 0 - Scaffolding your library's repo
+- 1 - Tools to help manage your monorepo
+- 2 - Tools to make writing your web components a breeze
+- 3 - How to build (and maybe bundle) your UI library's packages
+- 4 - Defining your UI library's testing strategy
+- 5 - Versioning and Publishing: Getting your library into your user's hands
+- 6 - Adding documentation for your UI library
+- Conclusion
 
 ## UI Libraries
 

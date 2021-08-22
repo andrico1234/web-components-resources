@@ -4,7 +4,7 @@ A list of the resources I used for research for the "The dilemmas you'll face wh
 ## The dilemmas you'll face when creating a web component UI library
 
 (Links to be added)
-Introduction
+- Introduction
 - 0 - Scaffolding your library's repo
 - 1 - Tools to help manage your monorepo
 - 2 - Tools to make writing your web components a breeze

@@ -25,6 +25,7 @@ A list of the resources I used for research for the "The dilemmas you'll face wh
 -[Material UI](https://material-ui.com/)
 - [PatternFly](https://github.com/patternfly/patternfly-elements)
 - [Clever Cloud](https://github.com/CleverCloud/clever-components)
+- [Spectrum](https://github.com/adobe/spectrum-web-components)
 
 ## Web component frameworks
 

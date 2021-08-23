@@ -1,5 +1,5 @@
 # Web Components Resources
-A list of the resources I used for research for the "The dilemmas you'll face when creating a web component UI library" article series.
+A list of the resources I used for research for the "The dilemmas you'll face when creating a web component UI library" article series, by [Andrico](https://twitter.com/AndricoKaroulla?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 ## The dilemmas you'll face when creating a web component UI library
 

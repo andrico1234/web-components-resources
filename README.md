@@ -1,7 +1,5 @@
-# Web Components Resources
+# The dilemmas you'll face when creating a web component UI library
 A list of the resources I used for research for the "The dilemmas you'll face when creating a web component UI library" article series, by [Andrico Karoulla](https://twitter.com/AndricoKaroulla?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-
-## The dilemmas you'll face when creating a web component UI library
 
 (Links to be added)
 - Introduction
@@ -89,3 +87,7 @@ A list of the resources I used for research for the "The dilemmas you'll face wh
 - [Versioning a monorepo](https://www.youtube.com/watch?v=fTlXWlZ28hc)
 - [Semantic Versioning](https://semver.org/)
 - [Deploying on Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
+
+## Showcase
+
+Soon...

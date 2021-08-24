@@ -35,10 +35,13 @@ A list of the resources I used for research for the "The dilemmas you'll face wh
 ## Monorepo management tools
 
 - [Lerna](https://lerna.js.org/)
-- [Yarn Workspaces](https://classic.yarnpkg.com/en/docs/workspaces/)
+- [Yarn workspaces](https://classic.yarnpkg.com/en/docs/workspaces/)
 - [Changesets](https://github.com/atlassian/changesets)
 - [WS Run](https://github.com/hfour/wsrun)
 - [NX](https://nx.dev/)
+- [Rush](https://rushjs.io/)
+- [NPM workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces)
+- [PNPM workspaces](https://pnpm.io/workspaces)
 
 ## Testing tools
 

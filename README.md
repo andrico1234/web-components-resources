@@ -61,6 +61,7 @@ A list of the resources I used for research for the "The dilemmas you'll face wh
 - [All the ways to make a web component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
 - [Going buildless](https://css-tricks.com/going-buildless/)
 - [ESM, CJS, UMD in JavaScript](https://irian.to/blogs/what-are-cjs-amd-umd-and-esm-in-javascript/)
+- [Bare module specifiers](https://polymer-library.polymer-project.org/3.0/docs/es6#module-specifiers)
 - [Should you version components separately or as a unified system?](https://maecapozzi.com/version-bundling/)
 - [Advantages of Monorepos](https://danluu.com/monorepo/)
 - [Monorepos: A multivocal literature review](https://www.semanticscholar.org/paper/Monorepos%3A-A-Multivocal-Literature-Review-Brito-Terra/19d9482f19b3d0b0d2d1c1201730635b9e2b5edb)

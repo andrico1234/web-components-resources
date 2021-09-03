@@ -1,7 +1,6 @@
 # The dilemmas you'll face when creating a web component UI library
 A list of the resources I used for research for the "The dilemmas you'll face when creating a web component UI library" article series, by [Andrico Karoulla](https://twitter.com/AndricoKaroulla?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-(Links to be added)
 - [Introduction](https://blog.andri.co/000-the-dilemmas-you'll-face-when-creating-a-web-component-library/)
 - [Scaffolding your library's repo](https://blog.andri.co/001-scaffolding-the-repo-for-your-ui-library)
 - [Tools to help manage your monorepo](https://blog.andri.co/002-tools-to-help-you-manage-your-monorepo)

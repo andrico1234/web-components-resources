@@ -2,15 +2,15 @@
 A list of the resources I used for research for the "The dilemmas you'll face when creating a web component UI library" article series, by [Andrico Karoulla](https://twitter.com/AndricoKaroulla?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 (Links to be added)
-- Introduction
-- 0 - Scaffolding your library's repo
-- 1 - Tools to help manage your monorepo
-- 2 - Tools to make writing your web components a breeze
-- 3 - How to build (and maybe bundle) your UI library's packages
-- 4 - Defining your UI library's testing strategy
-- 5 - Versioning and Publishing: Getting your library into your user's hands
-- 6 - Adding documentation for your UI library
-- Conclusion
+- [Introduction](https://blog.andri.co/000-the-dilemmas-you'll-face-when-creating-a-web-component-library/)
+- [Scaffolding your library's repo](https://blog.andri.co/001-scaffolding-the-repo-for-your-ui-library)
+- [Tools to help manage your monorepo](https://blog.andri.co/002-tools-to-help-you-manage-your-monorepo)
+- [Tools to make writing your web components a breeze](https://blog.andri.co/003-tools-to-make-writing-your-web-components-a-breeze)
+- [How to build (and maybe bundle) your UI library's packages](https://blog.andri.co/004-how-to-build-and-maybe-bundle-your-UI-library)
+- [Dehttps://blog.andri.co/005-defining-your-UI-librarys-testing-strategying your UI library's testing strategy](url)
+- [Versioning and Publishing: Getting your library into your user's hands](https://blog.andri.co/006-versioning-and-publishing-getting-your-UI-library-into-your-users-hands)
+- [Adding documentation for your UI library](https://blog.andri.co/007-creating-documentation-for-your-UI-library)
+- [Conclusion](https://blog.andri.co/008-conclusion-the-dilemmas-you'll-face-when-creating-a-web-component-library)
 
 ## UI Libraries
 
